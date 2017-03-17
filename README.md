@@ -1,2 +1,2 @@
 # qq-music
-https://liaozhenzhen.github.io/qq-music/ 仿QQ音乐的项目
+https://liaozhenzhen.github.io/qq-music/ 仿移动端QQ音乐项目
